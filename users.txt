@@ -1,0 +1,5 @@
+me:x:1012:1019::/home/me:/bin/bash
+natasha:x:1013:1020::/home/natasha:/bin/zsh
+.sarah:x:2023:2023:programer:/home/.sarah:/bin/tcsh
+mercy:x:2024:2024:programer:/home/mercy:/bin/tcsh
+merci:x:2025:2025:programer:/home/merci:/bin/tcsh
